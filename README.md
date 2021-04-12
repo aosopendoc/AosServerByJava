@@ -10,7 +10,7 @@ curl -X GET http://127.0.0.1:8080/xxx/testTransfer
 
 
 ### environment
-#### 1.this project using spring boot and jdk14
+#### 1.this project using spring boot and jdk14,you can open this project by 'IntelijIdea 2020.3'
 #### 2.transfer and createAccount example at EosController class,but you need fill the followe privatekey and creator account
 ```
 public class EosController {
